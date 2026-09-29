@@ -1,0 +1,8 @@
+---
+layout: default
+title: "Journal Club | P(Theory | Data)"
+---
+<main class="page container"><p class="eyebrow">Journal Club</p><h1>Cosmology & Gravitation</h1><p>Regular discussions of recent papers and research topics in cosmology, gravitation, gravitational-wave astronomy and astroparticles.</p>
+<h2>2026.2</h2><div class="schedule">{% for e in site.data.journal_club.2026_2 %}<div class="schedule-row"><strong>{{ e.date }}</strong><span>{{ e.speaker }}</span><span>{% for u in e.links %}<a href="{{ u }}">paper{% if forloop.index > 1 %} {{ forloop.index }}{% endif %}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}</span></div>{% endfor %}</div>
+<h2>2026.1</h2><div class="schedule">{% for e in site.data.journal_club.2026_1 %}<div class="schedule-row"><strong>{{ e.date }}</strong><span>{{ e.speaker }}</span><span>{% for u in e.links %}<a href="{{ u }}">paper{% if forloop.index > 1 %} {{ forloop.index }}{% endif %}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}</span></div>{% endfor %}</div>
+<h2>2025.2</h2><div class="schedule">{% for e in site.data.journal_club.2025_2 %}<div class="schedule-row"><strong>{{ e.date }}</strong><span>{{ e.speaker }}</span><span>{% for u in e.links %}<a href="{{ u }}">paper{% if forloop.index > 1 %} {{ forloop.index }}{% endif %}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}</span></div>{% endfor %}</div></main>

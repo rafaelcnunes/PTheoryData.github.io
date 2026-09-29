@@ -1,0 +1,5 @@
+---
+layout: default
+title: "Teaching | P(Theory | Data)"
+---
+<main class="page container"><p class="eyebrow">Teaching</p><h1>Public notes & teaching materials</h1><div class="grid two">{% for r in site.data.resources.notes %}<a class="card" href="{{ r.url }}"><h2>{{ r.title }}</h2><p>{{ r.description }}</p></a>{% endfor %}</div></main>

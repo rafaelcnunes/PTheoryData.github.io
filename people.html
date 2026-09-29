@@ -1,0 +1,12 @@
+---
+layout: default
+title: "People | P(Theory | Data)"
+---
+<main class="page container"><p class="eyebrow">People</p><h1>Our group</h1>
+<h2>Faculty</h2>{% for p in site.data.people.faculty %}<div class="person featured card"><h3>{{ p.name }}</h3><p>{{ p.role }}</p><p>{% for l in p.links %}<a href="{{ l.url }}">{{ l.label }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}</p></div>{% endfor %}
+<h2>PhD students</h2><div class="grid three">{% for p in site.data.people.phd %}<div class="card"><h3>{{ p }}</h3></div>{% endfor %}</div>
+<h2>MSc students</h2><div class="grid three">{% for p in site.data.people.msc %}<div class="card"><h3>{{ p }}</h3></div>{% endfor %}</div>
+<h2>Undergraduate students</h2><div class="grid two">{% for p in site.data.people.undergraduate %}<div class="card"><h3>{{ p }}</h3></div>{% endfor %}</div>
+<h2>External collaborators</h2><div class="grid two">{% for p in site.data.people.collaborators %}<div class="card"><h3>{{ p.name }}</h3><p>{{ p.affiliation }}</p></div>{% endfor %}</div>
+<h2>Alumni</h2><div class="research-list">{% for p in site.data.people.alumni %}<section><h3>{{ p.name }} <small>({{ p.degree }}, {{ p.year }})</small></h3><p>{{ p.thesis }}</p></section>{% endfor %}</div>
+</main>

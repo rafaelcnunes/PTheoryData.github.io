@@ -1,0 +1,5 @@
+---
+layout: default
+title: "Software | P(Theory | Data)"
+---
+<main class="page container"><p class="eyebrow">Software</p><h1>Codes & computational resources</h1><div class="grid two">{% for r in site.data.resources.software %}<a class="card" href="{{ r.url }}"><h2>{{ r.title }}</h2><p>{{ r.description }}</p></a>{% endfor %}</div></main>
