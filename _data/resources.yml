@@ -1,0 +1,15 @@
+notes:
+  - {title: Introdução à Cosmologia, url: https://drive.google.com/file/d/1ARa1lA83ZGZ-XQiCyi6BFTyl-aVSMc1o/view?usp=sharing, description: Notas de aula — graduação.}
+  - {title: Introdução à Teoria da Relatividade, url: https://drive.google.com/file/d/1gOLg-iiV2WJy0M46bWyB1nbvXYMsrFZi/view?usp=drive_link, description: Notas de aula — graduação.}
+  - {title: Introdução à Formação e Evolução de Estruturas, url: https://drive.google.com/file/d/1i6D6yWXjI3Tlafb6EWz9WRNBCs6jFoMa/view?usp=drive_link, description: Incluindo regime não-linear.}
+  - {title: Introdução à Energia Escura, url: https://drive.google.com/file/d/1S9CpPZIS4Tb3aUY-VRFbNLzN1AWO_jir/view?usp=sharing, description: Material introdutório.}
+  - {title: Introdução às Noções de Estatística para Análise de Dados, url: https://drive.google.com/file/d/14w_Jpv4AuNCMRiUq4gSTRiCJGeH9gMR9/view?usp=sharing, description: Material introdutório.}
+  - {title: Formação e evolução de estruturas sob a perspectiva de modelos de halo, url: https://periodicos.ufes.br/astronomia/article/view/48290/35033, description: Artigo de revisão.}
+  - {title: Artigo de revisão sobre tensões e anomalias observacionais em cosmologia, url: https://periodicos.ufes.br/astronomia/article/view/51444, description: Artigo de revisão.}
+  - {title: Manual de instalação e utilização dos dados do Planck-CMB, url: https://drive.google.com/file/d/1ehg_M7KCVIufaRAUfvhH4sz-kwDFuLzb/view?usp=drive_link, description: Manual.}
+software:
+  - {title: CLASS — IDE, url: https://github.com/msabogal/CLASS_IDE, description: Boltzmann code for interacting dark energy.}
+  - {title: CLASS — S-IDE, url: https://github.com/msabogal/CLASS_S_IDE, description: Scalar interacting dark energy.}
+  - {title: CLASS — wVCDM, url: https://github.com/Scherer-M/class_wdaggerVCDM, description: Dynamical dark-energy implementation.}
+  - {title: SERTAO, url: https://github.com/rafaelcnunes/SERTAO, description: Cosmological parameter estimation and observable analysis.}
+  - {title: SGAGE, url: https://github.com/fsrodrigofraga-hash/SGAGE, description: Gravitational-wave population and SGWB analyses.}

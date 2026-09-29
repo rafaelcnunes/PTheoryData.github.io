@@ -1,0 +1,81 @@
+faculty:
+  - name: Rafael C. Nunes
+    role: Associate Professor, IF-UFRGS
+    links:
+      - label: Lattes
+        url: https://lattes.cnpq.br/5269036828220579
+      - label: Google Scholar
+        url: https://scholar.google.es/citations?user=ImJ5svoAAAAJ&hl=es
+      - label: INSPIRE-HEP
+        url: https://inspirehep.net/authors/1394739
+phd:
+  - Emanuelly Silva
+  - Rafael Mancini
+  - Rodrigo Fraga
+msc:
+  - Hanna Gabrielle
+  - Vinicius Pretto
+  - Gabriel Hartmann
+undergraduate:
+  - Mateus Scherer
+  - Miguel Lino
+collaborators:
+  - name: Abraão J. S. Capistrano
+    affiliation: Universidade Federal do Paraná / UNILA
+  - name: Alexander Bonilla Rivera
+    affiliation: Instituto de Física, Universidade Federal Fluminense, Brazil
+  - name: Antonio De Felice
+    affiliation: Yukawa Institute for Theoretical Physics, Kyoto, Japan
+  - name: Armando Bernui
+    affiliation: Observatório Nacional, Brazil
+  - name: Eleonora Di Valentino
+    affiliation: University of Sheffield, United Kingdom
+  - name: Felipe Avila
+    affiliation: Observatório Nacional, Brazil
+  - name: Jaziel G. Coelho
+    affiliation: Universidade Federal do Espírito Santo, Brazil
+  - name: Jose Alberto Vazquez
+    affiliation: Universidad Nacional Autónoma de México, México
+  - name: Jose C. N. de Araujo
+    affiliation: INPE, Brazil
+  - name: José F. Jesus
+    affiliation: UNESP, Brazil
+  - name: Ozgür Akarsu
+    affiliation: Istanbul Technical University, Türkiye
+  - name: Rocco D'Agostino
+    affiliation: Scuola Superiore Meridionale, Napoli, Italy
+  - name: Rodrigo Holanda
+    affiliation: UFRN, Brazil
+  - name: Supriya Pan
+    affiliation: Presidency University, Kolkata, India
+  - name: Sunny Vagnozzi
+    affiliation: University of Trento, Italy
+  - name: Suresh Kumar
+    affiliation: Plaksha University, India
+  - name: William Giarè
+    affiliation: University of Sheffield, United Kingdom
+alumni:
+  - name: João Pedro Caccia
+    degree: TCC
+    thesis: Modelando Matéria Escura e Energia Escura no Espectro de Potência da Matéria Mediante Simulações de N-Corpos.
+    year: 2024
+  - name: Vinícius Maximilliano
+    degree: TCC
+    thesis: Medindo a Constante de Hubble com Supernovas Tipo Ia: Tensões Observacionais e Possíveis Indícios de Nova Física em Tempos Recentes.
+    year: 2025
+  - name: Joao Francisco Pera
+    degree: TCC
+    thesis: Dinâmica de Spin e Acreção no Crescimento de Buracos Negros Supermassivos ao Longo da Evolução Cosmológica.
+    year: 2025
+  - name: Miguel Sabogal
+    degree: Mestrado
+    thesis: Probing new physics beyond the ΛCDM in light of current cosmological and astrophysical tensions.
+    year: 2025
+  - name: Ana Clara
+    degree: Mestrado
+    thesis: Restrições Observacionais para uma Transição AdS-dS.
+    year: 2026
+  - name: Artur Ladeira
+    degree: TCC
+    thesis: Restrições observacionais à massa dos neutrinos com dados cosmológicos: Análises em ΛCDM e modelos dinâmicos de energia escura.
+    year: 2026
